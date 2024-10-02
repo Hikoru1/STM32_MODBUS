@@ -1,0 +1,11 @@
+../Core/Src/main.c:67:6:WRITE_DATA	3
+../Core/Src/main.c:79:6:COUNTER	1
+../Core/Src/main.c:85:6:PETIT_MODBUS	2
+../Core/Src/main.c:99:5:main	1
+../Core/Src/main.c:153:6:SystemClock_Config	3
+../Core/Src/main.c:200:13:MX_TIM1_Init	4
+../Core/Src/main.c:247:13:MX_TIM16_Init	2
+../Core/Src/main.c:279:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:327:13:MX_GPIO_Init	1
+../Core/Src/main.c:354:1:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/main.c:366:6:Error_Handler	1

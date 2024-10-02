@@ -1,0 +1,14 @@
+../Core/Src/PetitModbus.c:69:6:Petit_CRC16	3
+../Core/Src/PetitModbus.c:90:15:Petit_DoSlaveTX	1
+../Core/Src/PetitModbus.c:106:15:PetitSendMessage	2
+../Core/Src/PetitModbus.c:123:6:HandlePetitModbusError	1
+../Core/Src/PetitModbus.c:140:6:HandlePetitModbusReadHoldingRegisters	3
+../Core/Src/PetitModbus.c:186:6:HandlePetitModbusWriteSingleRegister	3
+../Core/Src/PetitModbus.c:223:6:HandleMPetitodbusWriteMultipleRegisters	3
+../Core/Src/PetitModbus.c:270:15:Petit_RxDataAvailable	1
+../Core/Src/PetitModbus.c:286:15:Petit_CheckRxTimeout	2
+../Core/Src/PetitModbus.c:308:15:CheckPetitModbusBufferComplete	12
+../Core/Src/PetitModbus.c:353:6:Petit_RxRTU	7
+../Core/Src/PetitModbus.c:405:6:Petit_TxRTU	2
+../Core/Src/PetitModbus.c:434:6:ProcessPetitModbus	8
+../Core/Src/PetitModbus.c:468:6:InitPetitModbus	1

@@ -1,0 +1,5 @@
+../Core/Src/MODBUS_LIB.c:20:10:Modbus_CRC16	4
+../Core/Src/MODBUS_LIB.c:45:10:READ_FUNC	2
+../Core/Src/MODBUS_LIB.c:74:10:PRESET_MUL_REG_FUNC	2
+../Core/Src/MODBUS_LIB.c:108:10:WRITE_SINGLE_REG	2
+../Core/Src/MODBUS_LIB.c:130:6:Modbus_Process	7

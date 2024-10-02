@@ -1,0 +1,2 @@
+../Core/Src/UART_Comm.c:11:6:UART_Send	1
+../Core/Src/UART_Comm.c:15:6:UART_Receive	1
